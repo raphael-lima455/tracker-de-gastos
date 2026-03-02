@@ -6,12 +6,7 @@ export default function Home() {
   return (
     <div>
       <Header />
-
-    <Hero />
-
-
-page
-
-    </div>   
+      <Hero />
+    </div>
   );
 }
